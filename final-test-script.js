@@ -31,6 +31,7 @@ function checkKey(e){
 
     
     if(e.code==="Enter" || e.code==="NumbadEnter"){
+		console.log("hi");
         checkGuess();
     }
 
